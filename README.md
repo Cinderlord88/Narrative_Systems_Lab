@@ -131,7 +131,7 @@ The research is informed by several AI Dungeon scripting projects:
 | **Surge Protector** | Supernatural abilities, capability enforcement, and AI compliance with defined powers |
 | **MindRift** | Persistent psychological state, stress, sanity, and narrative consequences |
 | **Empire of Echoes** | Procedural exploration, encounters, combat, and persistent world simulation |
-| **Sub Terra** | Spatial exploration, navigation, and interpretation of natural-language actions |
+| **Subterranean** | Spatial exploration, navigation, and interpretation of natural-language actions |
 
 These projects serve as experimental environments for identifying common engineering problems and testing reusable solutions.
 
